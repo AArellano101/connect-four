@@ -19,4 +19,4 @@ board = ArduinoMega(" port ")
 where "port" is your chosen usb port. As well, run standardPyfirmatarotocolP.
 
 
-Arduino design here: https://www.tinkercad.com/things/4MZ0cq4ioOi
+Arduino design here: https://www.tinkercad.com/things/4MZ0cq4ioOi  <== IGNORE CODE
